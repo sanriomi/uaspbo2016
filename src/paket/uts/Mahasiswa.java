@@ -48,7 +48,7 @@ public class Mahasiswa extends javax.swing.JFrame {
         jLabel7 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Program Hitung Nilai Mahasiswa");
+        setTitle("Program Hitung Nilai");
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         jLabel1.setText("NPM :");
@@ -91,7 +91,7 @@ public class Mahasiswa extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTextArea1);
 
         jLabel7.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
-        jLabel7.setText("Hasil :");
+        jLabel7.setText("Output :");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
